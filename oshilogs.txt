@@ -1,0 +1,253 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VOaWxkYQ/c21hcG9ja2VOaWxkYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Nilda =====
+[1]Nilda       |08:37:49 | 11-10-2026| login OK @nildazulika | score=860 rank=6775
+[1]Nilda       |08:37:49 | 11-10-2026| serverTime=2026-10-11T08:37:48.000Z local=2026-10-11T08:37:49.010Z
+--> [1]Nilda menjalankan: Claim Daily
+[1]Nilda       |08:37:51 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Nilda menjalankan: Auto All Tasks (3 pending)
+[1]Nilda       |08:37:55 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109201527027992027
+[1]Nilda       |08:37:55 | 11-10-2026| delay 10s...
+[1]Nilda       |08:38:07 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109201314901485959
+[1]Nilda       |08:38:07 | 11-10-2026| delay 10s...
+[1]Nilda       |08:38:19 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109201471337308015
+[1]Nilda       |08:38:19 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilda       |08:38:20 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nildazulika/status/2109201333036601005
+--> [1]Nilda menjalankan: Watch Anime
+[1]Nilda       |08:38:22 | 11-10-2026| watch: 3 video belum completed: oshi-first-journey,ep4,ep6
+[1]Nilda       |08:38:22 | 11-10-2026| watch [1/3] farming oshi-first-journey...
+[1]Nilda       |08:38:24 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Nilda       |08:38:30 | 11-10-2026| watch oshi-first-journey: 6% (5.44/87.00s)
+[1]Nilda       |08:38:43 | 11-10-2026| watch oshi-first-journey: 12% (11.07/87.00s)
+[1]Nilda       |08:38:49 | 11-10-2026| watch oshi-first-journey: 12% (11.07/87.00s)
+[1]Nilda       |08:38:56 | 11-10-2026| watch oshi-first-journey: 19% (16.73/87.00s)
+[1]Nilda       |08:39:03 | 11-10-2026| watch oshi-first-journey: 26% (23.25/87.00s)
+[1]Nilda       |08:39:11 | 11-10-2026| watch oshi-first-journey: 33% (29.30/87.00s)
+[1]Nilda       |08:39:20 | 11-10-2026| watch oshi-first-journey: 42% (36.82/87.00s)
+[1]Nilda       |08:39:27 | 11-10-2026| watch oshi-first-journey: 50% (43.86/87.00s)
+[1]Nilda       |08:39:35 | 11-10-2026| watch oshi-first-journey: 57% (50.21/87.00s)
+[1]Nilda       |08:39:42 | 11-10-2026| watch oshi-first-journey: 65% (57.21/87.00s)
+[1]Nilda       |08:39:50 | 11-10-2026| watch oshi-first-journey: 73% (63.83/87.00s)
+[1]Nilda       |08:39:59 | 11-10-2026| watch oshi-first-journey: 81% (70.98/87.00s)
+[1]Nilda       |08:40:07 | 11-10-2026| watch oshi-first-journey: 85% (74.75/87.00s)
+[1]Nilda       |08:40:57 | 11-10-2026| watch oshi-first-journey: posisi mentok tanpa completed, stop
+[1]Nilda       |08:41:02 | 11-10-2026| watch [2/3] farming ep4...
+[1]Nilda       |08:41:03 | 11-10-2026| watch ep4: mulai dari 0 (record 244.9s diabaikan)
+[1]Nilda       |08:41:04 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:11 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:18 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:25 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:34 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:41 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:49 | 11-10-2026| watch ep4: 69% (244.91/353.00s)
+[1]Nilda       |08:41:56 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:04 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:11 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:21 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:31 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:39 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:47 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:42:54 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:02 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:09 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:16 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:23 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:31 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:38 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:47 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:43:55 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:02 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:11 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:23 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:31 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:38 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:45 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:52 | 11-10-2026| watch ep4: 69% (245.56/353.00s)
+[1]Nilda       |08:44:58 | 11-10-2026| watch ep4: 69% (245.73/353.00s)
+[1]Nilda       |08:45:06 | 11-10-2026| watch ep4: 69% (245.73/353.00s)
+[1]Nilda       |08:45:13 | 11-10-2026| watch ep4: 69% (245.73/353.00s)
+[1]Nilda       |08:45:21 | 11-10-2026| watch ep4: 69% (246.18/353.00s)
+[1]Nilda       |08:45:29 | 11-10-2026| watch ep4: 69% (246.18/353.00s)
+[1]Nilda       |08:45:36 | 11-10-2026| watch ep4: 69% (246.18/353.00s)
+[1]Nilda       |08:45:43 | 11-10-2026| watch ep4: 70% (250.01/353.00s)
+[1]Nilda       |08:45:50 | 11-10-2026| watch ep4: 72% (257.07/353.00s)
+[1]Nilda       |08:45:58 | 11-10-2026| watch ep4: 74% (263.38/353.00s)
+[1]Nilda       |08:46:06 | 11-10-2026| watch ep4: 76% (269.75/353.00s)
+[1]Nilda       |08:46:12 | 11-10-2026| watch ep4: 78% (277.17/353.00s)
+[1]Nilda       |08:46:20 | 11-10-2026| watch ep4: 80% (282.80/353.00s)
+[1]Nilda       |08:46:27 | 11-10-2026| watch ep4: 82% (289.90/353.00s)
+[1]Nilda       |08:46:34 | 11-10-2026| watch ep4: 83% (296.14/353.00s)
+[1]Nilda       |08:46:41 | 11-10-2026| watch ep4: 85% (302.42/353.00s)
+[1]Nilda       |08:46:48 | 11-10-2026| watch ep4: 87% (308.92/353.00s)
+[1]Nilda       |08:46:54 | 11-10-2026| watch ep4: 89% (314.72/353.00s)
+[1]Nilda       |08:47:03 | 11-10-2026| watch ep4: 90% (320.64/353.00s)
+[1]Nilda       |08:47:03 | 11-10-2026| watch ep4: COMPLETED (320.64/353.00s)
+[1]Nilda       |08:47:08 | 11-10-2026| watch [3/3] farming ep6...
+[1]Nilda       |08:47:10 | 11-10-2026| watch ep6: mulai dari 0 (record 327.4s diabaikan)
+[1]Nilda       |08:47:13 | 11-10-2026| watch ep6: 81% (327.36/404.00s)
+[1]Nilda       |08:47:21 | 11-10-2026| watch ep6: 81% (327.36/404.00s)
+[1]Nilda       |08:47:29 | 11-10-2026| watch ep6: 81% (327.36/404.00s)
+[1]Nilda       |08:47:36 | 11-10-2026| watch ep6: 81% (327.36/404.00s)
+[1]Nilda       |08:47:47 | 11-10-2026| watch ep6: 81% (328.74/404.00s)
+[1]Nilda       |08:47:55 | 11-10-2026| watch ep6: 81% (328.74/404.00s)
+[1]Nilda       |08:48:04 | 11-10-2026| watch ep6: 81% (328.74/404.00s)
+[1]Nilda       |08:48:11 | 11-10-2026| watch ep6: 81% (328.74/404.00s)
+[1]Nilda       |08:48:19 | 11-10-2026| watch ep6: 81% (328.74/404.00s)
+[1]Nilda       |08:48:27 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:48:34 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:48:40 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:48:49 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:48:56 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:02 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:09 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:17 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:24 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:30 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:37 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:44 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:51 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:49:59 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:06 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:13 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:20 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:26 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:34 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:42 | 11-10-2026| watch ep6: 81% (328.84/404.00s)
+[1]Nilda       |08:50:49 | 11-10-2026| watch ep6: 81% (329.02/404.00s)
+[1]Nilda       |08:50:55 | 11-10-2026| watch ep6: 81% (329.02/404.00s)
+[1]Nilda       |08:51:02 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:10 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:16 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:23 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:29 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:37 | 11-10-2026| watch ep6: 81% (329.44/404.00s)
+[1]Nilda       |08:51:44 | 11-10-2026| watch ep6: 82% (331.75/404.00s)
+[1]Nilda       |08:51:51 | 11-10-2026| watch ep6: 82% (331.75/404.00s)
+[1]Nilda       |08:51:58 | 11-10-2026| watch ep6: 82% (331.75/404.00s)
+[1]Nilda       |08:52:08 | 11-10-2026| watch ep6: 82% (331.75/404.00s)
+[1]Nilda       |08:52:15 | 11-10-2026| watch ep6: 82% (331.75/404.00s)
+[1]Nilda       |08:52:21 | 11-10-2026| watch ep6: 82% (331.97/404.00s)
+[1]Nilda       |08:52:28 | 11-10-2026| watch ep6: 82% (331.97/404.00s)
+[1]Nilda       |08:52:37 | 11-10-2026| watch ep6: 82% (331.97/404.00s)
+[1]Nilda       |08:52:44 | 11-10-2026| watch ep6: 82% (332.09/404.00s)
+[1]Nilda       |08:52:52 | 11-10-2026| watch ep6: 82% (332.09/404.00s)
+[1]Nilda       |08:52:59 | 11-10-2026| watch ep6: 82% (332.32/404.00s)
+[1]Nilda       |08:53:07 | 11-10-2026| watch ep6: 82% (332.32/404.00s)
+[1]Nilda       |08:53:14 | 11-10-2026| watch ep6: 82% (332.32/404.00s)
+[1]Nilda       |08:53:21 | 11-10-2026| watch ep6: 82% (332.32/404.00s)
+[1]Nilda       |08:53:27 | 11-10-2026| watch ep6: 83% (338.01/404.00s)
+[1]Nilda       |08:53:33 | 11-10-2026| watch ep6: 85% (343.71/404.00s)
+[1]Nilda       |08:53:41 | 11-10-2026| watch ep6: 86% (349.43/404.00s)
+[1]Nilda       |08:53:47 | 11-10-2026| watch ep6: 88% (355.80/404.00s)
+[1]Nilda       |08:53:54 | 11-10-2026| watch ep6: 89% (361.55/404.00s)
+[1]Nilda       |08:54:00 | 11-10-2026| watch ep6: 90% (367.56/404.00s)
+[1]Nilda       |08:54:00 | 11-10-2026| watch ep6: COMPLETED (367.56/404.00s)
+--> [1]Nilda menjalankan: Read Article
+[1]Nilda       |08:54:01 | 11-10-2026| news: 0/24 artikel selesai dibaca
+[1]Nilda       |08:54:02 | 11-10-2026| mint eligibility: {"userId":"1878403506262134784","youtube":{"url":"https://www.youtube.com/@znildaa","status":"submitted","revision":"a1bdd691-3ac3-4a2e-9d48-63440a5db0c8","submittedAt":1791680630,"reviewedAt":1791680
+[1]Nilda       |08:54:08 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
+[1]Nilda       |08:54:18 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
+[1]Nilda       |08:54:30 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
+[1]Nilda       |08:54:42 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
+[1]Nilda       |08:54:57 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
+[1]Nilda       |08:55:06 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
+[1]Nilda       |08:55:18 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
+[1]Nilda       |08:55:29 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
+[1]Nilda       |08:55:39 | 11-10-2026| news [9/24] smart-pocket-monthly-2026-09: OK completed=9
+[1]Nilda       |08:55:52 | 11-10-2026| news [10/24] oshi-labs-monthly-2026-09: OK completed=10
+[1]Nilda       |08:56:03 | 11-10-2026| news [11/24] oshi-news-launch: OK completed=11
+[1]Nilda       |08:56:12 | 11-10-2026| news [12/24] yuki-character-design: OK completed=12
+[1]Nilda       |08:56:22 | 11-10-2026| news [13/24] smart-pocket-mobile-apps: OK completed=13
+[1]Nilda       |08:56:31 | 11-10-2026| news [14/24] smart-pocket-read-a-card: OK completed=14
+[1]Nilda       |08:56:41 | 11-10-2026| news [15/24] start-your-fan-creation: OK completed=15
+[1]Nilda       |08:56:50 | 11-10-2026| news [16/24] complete-your-first-task: OK completed=16
+[1]Nilda       |08:56:59 | 11-10-2026| news [17/24] understand-the-rankings: OK completed=17
+[1]Nilda       |08:57:07 | 11-10-2026| news [18/24] unlock-and-save-icons: OK completed=18
+[1]Nilda       |08:57:16 | 11-10-2026| news [19/24] start-here: OK completed=19
+[1]Nilda       |08:57:24 | 11-10-2026| news [20/24] what-is-free-mint: OK completed=20
+[1]Nilda       |08:57:35 | 11-10-2026| news [21/24] what-is-nft: OK completed=21
+[1]Nilda       |08:57:45 | 11-10-2026| news [22/24] prepare-your-wallet: OK completed=22
+[1]Nilda       |08:57:56 | 11-10-2026| news [23/24] find-your-anime: OK completed=23
+[1]Nilda       |08:58:05 | 11-10-2026| news [24/24] smart-pocket-first-steps: OK completed=24
+--> [1]Nilda menjalankan: Quiz Anime
+[1]Nilda       |08:58:15 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Nilda       |08:58:26 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Nilda       |08:58:32 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Nilda       |08:58:37 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Nilda       |08:58:42 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Nilda       |08:58:47 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+--> [1]Nilda menjalankan: Music Missions (realtime, bisa lama!)
+[1]Nilda       |08:58:53 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Nilda       |08:59:06 | 11-10-2026| music "この手は覚えてる": 9% (9.0063/94s)
+[1]Nilda       |08:59:17 | 11-10-2026| music "この手は覚えてる": 21% (20.3526/94s)
+[1]Nilda       |08:59:29 | 11-10-2026| music "この手は覚えてる": 32% (30.311999999999998/94s)
+[1]Nilda       |08:59:41 | 11-10-2026| music "この手は覚えてる": 44% (41.635799999999996/94s)
+[1]Nilda       |08:59:52 | 11-10-2026| music "この手は覚えてる": 55% (51.851699999999994/94s)
+[1]Nilda       |09:00:04 | 11-10-2026| music "この手は覚えてる": 65% (61.757999999999996/94s)
+[1]Nilda       |09:00:15 | 11-10-2026| music "この手は覚えてる": 77% (72.45989999999999/94s)
+[1]Nilda       |09:00:27 | 11-10-2026| music "この手は覚えてる": 88% (82.8855/94s)
+[1]Nilda       |09:00:28 | 11-10-2026| music "この手は覚えてる": selesai 82.8855s
+[1]Nilda       |09:00:38 | 11-10-2026| music memutar "キャンバス" (125s)...
+[1]Nilda       |09:00:53 | 11-10-2026| music "キャンバス": 7% (9.0054/125s)
+[1]Nilda       |09:01:05 | 11-10-2026| music "キャンバス": 18% (23.2542/125s)
+[1]Nilda       |09:01:17 | 11-10-2026| music "キャンバス": 27% (33.963300000000004/125s)
+[1]Nilda       |09:01:30 | 11-10-2026| music "キャンバス": 35% (44.4033/125s)
+[1]Nilda       |09:01:42 | 11-10-2026| music "キャンバス": 45% (56.296800000000005/125s)
+[1]Nilda       |09:01:53 | 11-10-2026| music "キャンバス": 53% (66.79440000000001/125s)
+[1]Nilda       |09:02:06 | 11-10-2026| music "キャンバス": 61% (76.70340000000002/125s)
+[1]Nilda       |09:02:17 | 11-10-2026| music "キャンバス": 70% (88.42050000000002/125s)
+[1]Nilda       |09:02:31 | 11-10-2026| music "キャンバス": 79% (98.77320000000002/125s)
+[1]Nilda       |09:02:42 | 11-10-2026| music "キャンバス": 88% (111.17340000000002/125s)
+[1]Nilda       |09:02:43 | 11-10-2026| music "キャンバス": selesai 111.17340000000002s
+[1]Nilda       |09:02:46 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Nilda       |09:02:57 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Nilda       |09:03:10 | 11-10-2026| music "ゆっくり帰ろう": 12% (19.0899/153s)
+[1]Nilda       |09:03:23 | 11-10-2026| music "ゆっくり帰ろう": 20% (30.996000000000002/153s)
+[1]Nilda       |09:03:36 | 11-10-2026| music "ゆっくり帰ろう": 27% (42.4503/153s)
+[1]Nilda       |09:03:48 | 11-10-2026| music "ゆっくり帰ろう": 35% (54.5499/153s)
+[1]Nilda       |09:03:59 | 11-10-2026| music "ゆっくり帰ろう": 42% (64.7172/153s)
+[1]Nilda       |09:04:10 | 11-10-2026| music "ゆっくり帰ろう": 48% (74.68740000000001/153s)
+[1]Nilda       |09:04:22 | 11-10-2026| music "ゆっくり帰ろう": 55% (85.10130000000001/153s)
+[1]Nilda       |09:04:33 | 11-10-2026| music "ゆっくり帰ろう": 62% (95.50980000000001/153s)
+[1]Nilda       |09:04:45 | 11-10-2026| music "ゆっくり帰ろう": 69% (105.63660000000002/153s)
+[1]Nilda       |09:04:58 | 11-10-2026| music "ゆっくり帰ろう": 75% (116.20170000000002/153s)
+[1]Nilda       |09:05:13 | 11-10-2026| music "ゆっくり帰ろう": 83% (127.93140000000001/153s)
+[1]Nilda       |09:05:15 | 11-10-2026| music "ゆっくり帰ろう": selesai 127.93140000000001s
+[1]Nilda       |09:05:16 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nilda       |09:05:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Nilda menjalankan: Claim Missions
+[1]Nilda       |09:05:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Nilda menjalankan: Check Eligibility
+
+--- eligibility [1]Nilda ---
+  @nildazulika | score=860 rank=6775
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Nilda menjalankan: Read Manga
+[1]Nilda       |09:05:16 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Nilda menjalankan: Get Gift
+[1]Nilda       |09:05:16 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Nilda menjalankan: Setup Profile
+[1]Nilda       |09:05:16 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Nilda menjalankan: Bind Wallet
+[1]Nilda       |09:05:16 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Nilda: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 2/3 completed | musik 3 trek ~321.9903s | artikel 24 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
