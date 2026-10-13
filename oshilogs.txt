@@ -12,227 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nilda =====
-[1]Nilda       |07:00:58 | 12-10-2026| login OK @nildazulika | score=950 rank=6397
-[1]Nilda       |07:00:58 | 12-10-2026| serverTime=2026-10-12T07:00:58.000Z local=2026-10-12T07:00:58.491Z
+[1]Nilda       |07:24:48 | 13-10-2026| login OK @nildazulika | score=1070 rank=5836
+[1]Nilda       |07:24:48 | 13-10-2026| serverTime=2026-10-13T07:24:47.000Z local=2026-10-13T07:24:48.036Z
 --> [1]Nilda menjalankan: Claim Daily
-[1]Nilda       |07:00:59 | 12-10-2026| daily: OK +10 poin score=960
---> [1]Nilda menjalankan: Auto All Tasks (7 pending)
-[1]Nilda       |07:01:01 | 12-10-2026| [1/7] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109539350422879758
-[1]Nilda       |07:01:01 | 12-10-2026| delay 10s...
-[1]Nilda       |07:01:13 | 12-10-2026| [2/7] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109539563905461457
-[1]Nilda       |07:01:13 | 12-10-2026| delay 10s...
-[1]Nilda       |07:01:26 | 12-10-2026| [3/7] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nilda       |07:01:26 | 12-10-2026| delay 10s...
-[1]Nilda       |07:01:38 | 12-10-2026| [4/7] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109539478960493826
-[1]Nilda       |07:01:38 | 12-10-2026| delay 10s...
-[1]Nilda       |07:01:50 | 12-10-2026| [5/7] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109539732339770521
-[1]Nilda       |07:01:50 | 12-10-2026| delay 10s...
-[1]Nilda       |07:02:02 | 12-10-2026| [6/7] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nilda       |07:02:02 | 12-10-2026| delay 10s...
-[1]Nilda       |07:02:14 | 12-10-2026| [7/7] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109539770807565684
-[1]Nilda       |07:02:14 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nilda       |07:02:16 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nildazulika/status/2109539519010717623
+[1]Nilda       |07:24:49 | 13-10-2026| daily: OK +10 poin score=1080
+--> [1]Nilda menjalankan: Auto All Tasks (5 pending)
+[1]Nilda       |07:24:51 | 13-10-2026| [1/5] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109907765342474184
+[1]Nilda       |07:24:51 | 13-10-2026| delay 10s...
+[1]Nilda       |07:25:03 | 13-10-2026| [2/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109907971376726032
+[1]Nilda       |07:25:03 | 13-10-2026| delay 10s...
+[1]Nilda       |07:25:15 | 13-10-2026| [3/5] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109907737387569701
+[1]Nilda       |07:25:15 | 13-10-2026| delay 10s...
+[1]Nilda       |07:25:28 | 13-10-2026| [4/5] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109908054127861393
+[1]Nilda       |07:25:28 | 13-10-2026| delay 10s...
+[1]Nilda       |07:25:40 | 13-10-2026| [5/5] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2109908139484785685
+[1]Nilda       |07:25:40 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilda       |07:25:41 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nildazulika/status/2109907950369569428
 --> [1]Nilda menjalankan: Watch Anime
-[1]Nilda       |07:02:17 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Nilda       |07:02:17 | 12-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Nilda       |07:02:18 | 12-10-2026| watch oshi-first-journey: mulai dari 0 (record 74.8s diabaikan)
-[1]Nilda       |07:02:19 | 12-10-2026| watch oshi-first-journey: 85% (74.75/87.00s)
-[1]Nilda       |07:02:25 | 12-10-2026| watch oshi-first-journey: 85% (74.75/87.00s)
-[1]Nilda       |07:02:34 | 12-10-2026| watch oshi-first-journey: 85% (74.75/87.00s)
-[1]Nilda       |07:02:40 | 12-10-2026| watch oshi-first-journey: 92% (80.84/87.00s)
-[1]Nilda       |07:02:40 | 12-10-2026| watch oshi-first-journey: COMPLETED (80.84/87.00s)
+[1]Nilda       |07:25:42 | 13-10-2026| watch: semua video sudah completed
 --> [1]Nilda menjalankan: Read Article
-[1]Nilda       |07:02:41 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nilda       |07:02:42 | 12-10-2026| mint eligibility: {"userId":"1878403506262134784","youtube":{"url":"https://www.youtube.com/@znildaa","status":"submitted","revision":"a1bdd691-3ac3-4a2e-9d48-63440a5db0c8","submittedAt":1791680630,"reviewedAt":1791680
-[1]Nilda       |07:02:42 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Nilda       |07:25:43 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nilda       |07:25:44 | 13-10-2026| mint eligibility: {"userId":"1878403506262134784","youtube":{"url":"https://www.youtube.com/@znildaa","status":"submitted","revision":"a1bdd691-3ac3-4a2e-9d48-63440a5db0c8","submittedAt":1791680630,"reviewedAt":1791680
+[1]Nilda       |07:25:44 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Nilda menjalankan: Quiz Anime
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Nilda       |07:02:42 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Nilda       |07:25:45 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Nilda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nilda       |07:02:46 | 12-10-2026| music memutar "うたかた" (185s)...
-[1]Nilda       |07:02:57 | 12-10-2026| music "うたかた": 4% (9.0045/185s)
-[1]Nilda       |07:03:08 | 12-10-2026| music "うたかた": 10% (19.157400000000003/185s)
-[1]Nilda       |07:03:20 | 12-10-2026| music "うたかた": 15% (29.335500000000003/185s)
-[1]Nilda       |07:03:32 | 12-10-2026| music "うたかた": 21% (39.409200000000006/185s)
-[1]Nilda       |07:03:43 | 12-10-2026| music "うたかた": 27% (50.333400000000005/185s)
-[1]Nilda       |07:03:55 | 12-10-2026| music "うたかた": 32% (60.836400000000005/185s)
-[1]Nilda       |07:04:06 | 12-10-2026| music "うたかた": 38% (70.9722/185s)
-[1]Nilda       |07:04:18 | 12-10-2026| music "うたかた": 44% (81.6507/185s)
-[1]Nilda       |07:04:29 | 12-10-2026| music "うたかた": 49% (91.7478/185s)
-[1]Nilda       |07:04:40 | 12-10-2026| music "うたかた": 55% (101.8629/185s)
-[1]Nilda       |07:04:51 | 12-10-2026| music "うたかた": 60% (111.8637/185s)
-[1]Nilda       |07:05:03 | 12-10-2026| music "うたかた": 65% (121.84379999999999/185s)
-[1]Nilda       |07:05:15 | 12-10-2026| music "うたかた": 71% (132.9237/185s)
-[1]Nilda       |07:05:26 | 12-10-2026| music "うたかた": 77% (142.9308/185s)
-[1]Nilda       |07:05:37 | 12-10-2026| music "うたかた": 82% (153.0207/185s)
-[1]Nilda       |07:05:37 | 12-10-2026| music "うたかた": selesai 153.0207s
-[1]Nilda       |07:05:39 | 12-10-2026| music memutar "ぬくもり" (188s)...
-[1]Nilda       |07:05:51 | 12-10-2026| music "ぬくもり": 4% (9/188s)
-[1]Nilda       |07:06:02 | 12-10-2026| music "ぬくもり": 10% (18.981/188s)
-[1]Nilda       |07:06:13 | 12-10-2026| music "ぬくもり": 15% (28.9512/188s)
-[1]Nilda       |07:06:25 | 12-10-2026| music "ぬくもり": 20% (38.9322/188s)
-[1]Nilda       |07:06:36 | 12-10-2026| music "ぬくもり": 26% (49.626000000000005/188s)
-[1]Nilda       |07:06:47 | 12-10-2026| music "ぬくもり": 31% (59.59530000000001/188s)
-[1]Nilda       |07:06:58 | 12-10-2026| music "ぬくもり": 37% (69.6024/188s)
-[1]Nilda       |07:07:09 | 12-10-2026| music "ぬくもり": 42% (79.6059/188s)
-[1]Nilda       |07:07:20 | 12-10-2026| music "ぬくもり": 47% (89.60040000000001/188s)
-[1]Nilda       |07:07:31 | 12-10-2026| music "ぬくもり": 53% (99.77940000000001/188s)
-[1]Nilda       |07:07:44 | 12-10-2026| music "ぬくもり": 58% (109.7784/188s)
-[1]Nilda       |07:07:55 | 12-10-2026| music "ぬくもり": 64% (120.6936/188s)
-[1]Nilda       |07:08:06 | 12-10-2026| music "ぬくもり": 69% (130.6989/188s)
-[1]Nilda       |07:08:17 | 12-10-2026| music "ぬくもり": 74% (140.72220000000002/188s)
-[1]Nilda       |07:08:28 | 12-10-2026| music "ぬくもり": 80% (150.6807/188s)
-[1]Nilda       |07:08:41 | 12-10-2026| music "ぬくもり": 85% (160.7805/188s)
-[1]Nilda       |07:08:42 | 12-10-2026| music "ぬくもり": selesai 160.7805s
-[1]Nilda       |07:08:45 | 12-10-2026| music memutar "桃色の頃" (213s)...
-[1]Nilda       |07:08:56 | 12-10-2026| music "桃色の頃": 4% (9.0009/213s)
-[1]Nilda       |07:09:07 | 12-10-2026| music "桃色の頃": 9% (19.2024/213s)
-[1]Nilda       |07:09:18 | 12-10-2026| music "桃色の頃": 13% (29.3409/213s)
-[1]Nilda       |07:09:30 | 12-10-2026| music "桃色の頃": 18% (39.352500000000006/213s)
-[1]Nilda       |07:09:41 | 12-10-2026| music "桃色の頃": 23% (49.70790000000001/213s)
-[1]Nilda       |07:09:53 | 12-10-2026| music "桃色の頃": 28% (59.77620000000001/213s)
-[1]Nilda       |07:10:04 | 12-10-2026| music "桃色の頃": 32% (70.1406/213s)
-[1]Nilda       |07:10:15 | 12-10-2026| music "桃色の頃": 37% (80.3259/213s)
-[1]Nilda       |07:10:26 | 12-10-2026| music "桃色の頃": 42% (90.2997/213s)
-[1]Nilda       |07:10:37 | 12-10-2026| music "桃色の頃": 47% (100.2627/213s)
-[1]Nilda       |07:10:48 | 12-10-2026| music "桃色の頃": 51% (110.2662/213s)
-[1]Nilda       |07:11:00 | 12-10-2026| music "桃色の頃": 56% (120.35159999999999/213s)
-[1]Nilda       |07:11:11 | 12-10-2026| music "桃色の頃": 61% (130.4118/213s)
-[1]Nilda       |07:11:23 | 12-10-2026| music "桃色の頃": 65% (140.3892/213s)
-[1]Nilda       |07:11:34 | 12-10-2026| music "桃色の頃": 71% (151.40429999999998/213s)
-[1]Nilda       |07:11:45 | 12-10-2026| music "桃色の頃": 75% (161.37989999999996/213s)
-[1]Nilda       |07:11:56 | 12-10-2026| music "桃色の頃": 80% (171.61379999999997/213s)
-[1]Nilda       |07:11:57 | 12-10-2026| music "桃色の頃": selesai 171.61379999999997s
-[1]Nilda       |07:12:00 | 12-10-2026| music memutar "記憶の名前" (224s)...
-[1]Nilda       |07:12:11 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
-[1]Nilda       |07:12:22 | 12-10-2026| music "記憶の名前": 8% (19.0053/224s)
-[1]Nilda       |07:12:33 | 12-10-2026| music "記憶の名前": 12% (29.052/224s)
-[1]Nilda       |07:12:44 | 12-10-2026| music "記憶の名前": 17% (39.2598/224s)
-[1]Nilda       |07:12:55 | 12-10-2026| music "記憶の名前": 21% (49.1778/224s)
-[1]Nilda       |07:13:07 | 12-10-2026| music "記憶の名前": 26% (59.1219/224s)
-[1]Nilda       |07:13:18 | 12-10-2026| music "記憶の名前": 31% (69.6276/224s)
-[1]Nilda       |07:13:30 | 12-10-2026| music "記憶の名前": 35% (79.6887/224s)
-[1]Nilda       |07:13:41 | 12-10-2026| music "記憶の名前": 40% (89.9559/224s)
-[1]Nilda       |07:13:52 | 12-10-2026| music "記憶の名前": 44% (100.0152/224s)
-[1]Nilda       |07:14:03 | 12-10-2026| music "記憶の名前": 49% (110.4048/224s)
-[1]Nilda       |07:14:15 | 12-10-2026| music "記憶の名前": 53% (120.4272/224s)
-[1]Nilda       |07:14:26 | 12-10-2026| music "記憶の名前": 58% (130.437/224s)
-[1]Nilda       |07:14:38 | 12-10-2026| music "記憶の名前": 62% (140.38920000000002/224s)
-[1]Nilda       |07:14:49 | 12-10-2026| music "記憶の名前": 67% (151.21890000000002/224s)
-[1]Nilda       |07:15:00 | 12-10-2026| music "記憶の名前": 71% (161.15850000000003/224s)
-[1]Nilda       |07:15:11 | 12-10-2026| music "記憶の名前": 76% (171.64170000000004/224s)
-[1]Nilda       |07:15:22 | 12-10-2026| music "記憶の名前": 81% (181.58310000000003/224s)
-[1]Nilda       |07:15:23 | 12-10-2026| music "記憶の名前": selesai 181.58310000000003s
-[1]Nilda       |07:15:25 | 12-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Nilda       |07:15:37 | 12-10-2026| music "Smart Pocket": 3% (9.0036/232s)
-[1]Nilda       |07:15:48 | 12-10-2026| music "Smart Pocket": 8% (19.7181/232s)
-[1]Nilda       |07:16:00 | 12-10-2026| music "Smart Pocket": 12% (29.9052/232s)
-[1]Nilda       |07:16:11 | 12-10-2026| music "Smart Pocket": 17% (39.8727/232s)
-[1]Nilda       |07:16:22 | 12-10-2026| music "Smart Pocket": 21% (50.0445/232s)
-[1]Nilda       |07:16:33 | 12-10-2026| music "Smart Pocket": 25% (60.0048/232s)
-[1]Nilda       |07:16:44 | 12-10-2026| music "Smart Pocket": 30% (70.0407/232s)
-[1]Nilda       |07:16:56 | 12-10-2026| music "Smart Pocket": 34% (80.0109/232s)
-[1]Nilda       |07:17:07 | 12-10-2026| music "Smart Pocket": 38% (90.32310000000001/232s)
-[1]Nilda       |07:17:18 | 12-10-2026| music "Smart Pocket": 43% (100.31760000000001/232s)
-[1]Nilda       |07:17:29 | 12-10-2026| music "Smart Pocket": 47% (110.35080000000002/232s)
-[1]Nilda       |07:17:40 | 12-10-2026| music "Smart Pocket": 51% (120.31830000000002/232s)
-[1]Nilda       |07:17:51 | 12-10-2026| music "Smart Pocket": 56% (130.67280000000002/232s)
-[1]Nilda       |07:18:03 | 12-10-2026| music "Smart Pocket": 60% (140.58720000000002/232s)
-[1]Nilda       |07:18:14 | 12-10-2026| music "Smart Pocket": 65% (150.80400000000003/232s)
-[1]Nilda       |07:18:25 | 12-10-2026| music "Smart Pocket": 69% (160.78500000000003/232s)
-[1]Nilda       |07:18:36 | 12-10-2026| music "Smart Pocket": 73% (170.77320000000003/232s)
-[1]Nilda       |07:18:48 | 12-10-2026| music "Smart Pocket": 78% (181.09710000000004/232s)
-[1]Nilda       |07:19:00 | 12-10-2026| music "Smart Pocket": 82% (191.90880000000004/232s)
-[1]Nilda       |07:19:00 | 12-10-2026| music "Smart Pocket": selesai 191.90880000000004s
-[1]Nilda       |07:19:02 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Nilda       |07:19:14 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Nilda       |07:19:25 | 12-10-2026| music "神様みたいに": 7% (19.1997/254s)
-[1]Nilda       |07:19:36 | 12-10-2026| music "神様みたいに": 11% (29.163600000000002/254s)
-[1]Nilda       |07:19:47 | 12-10-2026| music "神様みたいに": 15% (39.096000000000004/254s)
-[1]Nilda       |07:19:58 | 12-10-2026| music "神様みたいに": 19% (49.0491/254s)
-[1]Nilda       |07:20:11 | 12-10-2026| music "神様みたいに": 23% (59.0688/254s)
-[1]Nilda       |07:20:23 | 12-10-2026| music "神様みたいに": 27% (70.8192/254s)
-[1]Nilda       |07:20:34 | 12-10-2026| music "神様みたいに": 31% (81.2205/254s)
-[1]Nilda       |07:20:45 | 12-10-2026| music "神様みたいに": 35% (91.1628/254s)
-[1]Nilda       |07:20:56 | 12-10-2026| music "神様みたいに": 39% (101.10510000000001/254s)
-[1]Nilda       |07:21:07 | 12-10-2026| music "神様みたいに": 43% (111.0627/254s)
-[1]Nilda       |07:21:18 | 12-10-2026| music "神様みたいに": 47% (121.01310000000001/254s)
-[1]Nilda       |07:21:30 | 12-10-2026| music "神様みたいに": 51% (131.37030000000001/254s)
-[1]Nilda       |07:21:41 | 12-10-2026| music "神様みたいに": 55% (141.74730000000002/254s)
-[1]Nilda       |07:21:52 | 12-10-2026| music "神様みたいに": 59% (151.73820000000003/254s)
-[1]Nilda       |07:22:03 | 12-10-2026| music "神様みたいに": 63% (161.67150000000004/254s)
-[1]Nilda       |07:22:14 | 12-10-2026| music "神様みたいに": 67% (171.86490000000003/254s)
-[1]Nilda       |07:22:26 | 12-10-2026| music "神様みたいに": 71% (181.80540000000002/254s)
-[1]Nilda       |07:22:37 | 12-10-2026| music "神様みたいに": 75% (192.1509/254s)
-[1]Nilda       |07:22:48 | 12-10-2026| music "神様みたいに": 79% (202.2345/254s)
-[1]Nilda       |07:22:59 | 12-10-2026| music "神様みたいに": 83% (212.3055/254s)
-[1]Nilda       |07:23:00 | 12-10-2026| music "神様みたいに": selesai 212.3055s
-[1]Nilda       |07:23:02 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Nilda       |07:23:13 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Nilda       |07:23:25 | 12-10-2026| music "せーので、飛ぼう！": 7% (18.9981/269s)
-[1]Nilda       |07:23:36 | 12-10-2026| music "せーので、飛ぼう！": 10% (29.1222/269s)
-[1]Nilda       |07:23:47 | 12-10-2026| music "せーので、飛ぼう！": 14% (39.1032/269s)
-[1]Nilda       |07:23:58 | 12-10-2026| music "せーので、飛ぼう！": 18% (49.274100000000004/269s)
-[1]Nilda       |07:24:09 | 12-10-2026| music "せーので、飛ぼう！": 22% (59.2398/269s)
-[1]Nilda       |07:24:20 | 12-10-2026| music "せーので、飛ぼう！": 25% (69.2046/269s)
-[1]Nilda       |07:24:31 | 12-10-2026| music "せーので、飛ぼう！": 29% (79.3512/269s)
-[1]Nilda       |07:24:43 | 12-10-2026| music "せーので、飛ぼう！": 33% (89.3313/269s)
-[1]Nilda       |07:24:54 | 12-10-2026| music "せーので、飛ぼう！": 36% (99.2979/269s)
-[1]Nilda       |07:25:06 | 12-10-2026| music "せーので、飛ぼう！": 40% (109.9269/269s)
-[1]Nilda       |07:25:17 | 12-10-2026| music "せーので、飛ぼう！": 44% (120.0402/269s)
-[1]Nilda       |07:25:28 | 12-10-2026| music "せーので、飛ぼう！": 48% (130.005/269s)
-[1]Nilda       |07:25:40 | 12-10-2026| music "せーので、飛ぼう！": 52% (140.1786/269s)
-[1]Nilda       |07:25:51 | 12-10-2026| music "せーので、飛ぼう！": 56% (150.8337/269s)
-[1]Nilda       |07:26:02 | 12-10-2026| music "せーので、飛ぼう！": 59% (160.8039/269s)
-[1]Nilda       |07:26:13 | 12-10-2026| music "せーので、飛ぼう！": 63% (170.8839/269s)
-[1]Nilda       |07:26:27 | 12-10-2026| music "せーので、飛ぼう！": 67% (180.9153/269s)
-[1]Nilda       |07:26:39 | 12-10-2026| music "せーので、飛ぼう！": 72% (193.6836/269s)
-[1]Nilda       |07:26:50 | 12-10-2026| music "せーので、飛ぼう！": 75% (204.09300000000002/269s)
-[1]Nilda       |07:27:01 | 12-10-2026| music "せーので、飛ぼう！": 79% (214.06320000000002/269s)
-[1]Nilda       |07:27:12 | 12-10-2026| music "せーので、飛ぼう！": 83% (224.03340000000003/269s)
-[1]Nilda       |07:27:13 | 12-10-2026| music "せーので、飛ぼう！": selesai 224.03340000000003s
-[1]Nilda       |07:27:15 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Nilda       |07:27:26 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
-[1]Nilda       |07:27:38 | 12-10-2026| music "ON CHAIN NEXUS": 6% (18.9378/276s)
-[1]Nilda       |07:27:49 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.2905/276s)
-[1]Nilda       |07:28:00 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.2715/276s)
-[1]Nilda       |07:28:11 | 12-10-2026| music "ON CHAIN NEXUS": 17% (49.2813/276s)
-[1]Nilda       |07:28:22 | 12-10-2026| music "ON CHAIN NEXUS": 21% (59.276700000000005/276s)
-[1]Nilda       |07:28:33 | 12-10-2026| music "ON CHAIN NEXUS": 25% (69.31620000000001/276s)
-[1]Nilda       |07:28:45 | 12-10-2026| music "ON CHAIN NEXUS": 28% (79.35390000000001/276s)
-[1]Nilda       |07:28:56 | 12-10-2026| music "ON CHAIN NEXUS": 32% (89.35740000000001/276s)
-[1]Nilda       |07:29:07 | 12-10-2026| music "ON CHAIN NEXUS": 35% (99.34380000000002/276s)
-[1]Nilda       |07:29:18 | 12-10-2026| music "ON CHAIN NEXUS": 39% (109.35090000000001/276s)
-[1]Nilda       |07:29:29 | 12-10-2026| music "ON CHAIN NEXUS": 43% (119.34810000000002/276s)
-[1]Nilda       |07:29:41 | 12-10-2026| music "ON CHAIN NEXUS": 47% (129.8052/276s)
-[1]Nilda       |07:29:52 | 12-10-2026| music "ON CHAIN NEXUS": 50% (139.8177/276s)
-[1]Nilda       |07:30:03 | 12-10-2026| music "ON CHAIN NEXUS": 54% (149.7537/276s)
-[1]Nilda       |07:30:14 | 12-10-2026| music "ON CHAIN NEXUS": 57% (159.7716/276s)
-[1]Nilda       |07:30:25 | 12-10-2026| music "ON CHAIN NEXUS": 61% (169.74/276s)
-[1]Nilda       |07:30:36 | 12-10-2026| music "ON CHAIN NEXUS": 65% (179.6823/276s)
-[1]Nilda       |07:30:47 | 12-10-2026| music "ON CHAIN NEXUS": 68% (189.7605/276s)
-[1]Nilda       |07:30:58 | 12-10-2026| music "ON CHAIN NEXUS": 72% (199.71720000000002/276s)
-[1]Nilda       |07:31:09 | 12-10-2026| music "ON CHAIN NEXUS": 75% (209.70090000000002/276s)
-[1]Nilda       |07:31:20 | 12-10-2026| music "ON CHAIN NEXUS": 79% (219.6801/276s)
-[1]Nilda       |07:31:32 | 12-10-2026| music "ON CHAIN NEXUS": 83% (229.6125/276s)
-[1]Nilda       |07:31:32 | 12-10-2026| music "ON CHAIN NEXUS": selesai 229.6125s
-[1]Nilda       |07:31:34 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nilda       |07:31:35 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Nilda       |07:31:39 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Nilda       |07:31:43 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Nilda       |07:25:46 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nilda       |07:25:47 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilda       |07:25:47 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilda       |07:25:47 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilda menjalankan: Claim Missions
-[1]Nilda       |07:31:47 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilda       |07:31:47 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilda       |07:31:47 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilda       |07:25:48 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilda       |07:25:48 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilda       |07:25:48 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilda menjalankan: Check Eligibility
 
 --- eligibility [1]Nilda ---
-  @nildazulika | score=950 rank=6397
-  tasks    [##################--] 72/79
+  @nildazulika | score=1070 rank=5836
+  tasks    [###################-] 73/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -243,251 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nilda menjalankan: Read Manga
-[1]Nilda       |07:31:51 | 12-10-2026| manga: 13/13 chapter belum completed
-[1]Nilda       |07:31:51 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Nilda       |07:31:57 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Nilda       |07:32:01 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Nilda       |07:32:06 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Nilda       |07:32:11 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
-[1]Nilda       |07:32:15 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 19s
-[1]Nilda       |07:32:20 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 23s
-[1]Nilda       |07:32:25 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 28s
-[1]Nilda       |07:32:29 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 33s
-[1]Nilda       |07:32:34 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 37s
-[1]Nilda       |07:32:39 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 42s
-[1]Nilda       |07:32:44 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 47s
-[1]Nilda       |07:32:48 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 52s
-[1]Nilda       |07:32:53 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 56s
-[1]Nilda       |07:32:57 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 61s
-[1]Nilda       |07:33:02 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 65s
-[1]Nilda       |07:33:07 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 70s
-[1]Nilda       |07:33:11 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 75s
-[1]Nilda       |07:33:16 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 79s
-[1]Nilda       |07:33:20 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 84s
-[1]Nilda       |07:33:25 | 12-10-2026| manga ch1 (1): COMPLETED
-[1]Nilda       |07:33:28 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Nilda       |07:33:33 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Nilda       |07:33:38 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Nilda       |07:33:42 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Nilda       |07:33:48 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Nilda       |07:33:52 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
-[1]Nilda       |07:33:57 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Nilda       |07:34:01 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
-[1]Nilda       |07:34:06 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
-[1]Nilda       |07:34:10 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Nilda       |07:34:15 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
-[1]Nilda       |07:34:20 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
-[1]Nilda       |07:34:25 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
-[1]Nilda       |07:34:30 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
-[1]Nilda       |07:34:34 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 61s
-[1]Nilda       |07:34:39 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 65s
-[1]Nilda       |07:34:44 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 71s
-[1]Nilda       |07:34:48 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 75s
-[1]Nilda       |07:34:53 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 80s
-[1]Nilda       |07:34:58 | 12-10-2026| manga ch2 (450001): COMPLETED
-[1]Nilda       |07:35:01 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Nilda       |07:35:06 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Nilda       |07:35:11 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
-[1]Nilda       |07:35:15 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Nilda       |07:35:20 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Nilda       |07:35:25 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
-[1]Nilda       |07:35:30 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
-[1]Nilda       |07:35:35 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
-[1]Nilda       |07:35:40 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 33s
-[1]Nilda       |07:35:44 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 38s
-[1]Nilda       |07:35:49 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 42s
-[1]Nilda       |07:35:53 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 47s
-[1]Nilda       |07:35:59 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
-[1]Nilda       |07:36:04 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 57s
-[1]Nilda       |07:36:08 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 62s
-[1]Nilda       |07:36:13 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 66s
-[1]Nilda       |07:36:18 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 71s
-[1]Nilda       |07:36:22 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 76s
-[1]Nilda       |07:36:27 | 12-10-2026| manga ch3 (2160001): COMPLETED
-[1]Nilda       |07:36:30 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Nilda       |07:36:36 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Nilda       |07:36:40 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Nilda       |07:36:45 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
-[1]Nilda       |07:36:49 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
-[1]Nilda       |07:36:54 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 18s
-[1]Nilda       |07:36:59 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
-[1]Nilda       |07:37:03 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
-[1]Nilda       |07:37:08 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 32s
-[1]Nilda       |07:37:13 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
-[1]Nilda       |07:37:17 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 41s
-[1]Nilda       |07:37:22 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 46s
-[1]Nilda       |07:37:27 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 51s
-[1]Nilda       |07:37:32 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 56s
-[1]Nilda       |07:37:36 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 60s
-[1]Nilda       |07:37:41 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 65s
-[1]Nilda       |07:37:45 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 70s
-[1]Nilda       |07:37:50 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 74s
-[1]Nilda       |07:37:55 | 12-10-2026| manga ch4 (2400001): COMPLETED
-[1]Nilda       |07:37:58 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Nilda       |07:38:03 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Nilda       |07:38:08 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Nilda       |07:38:13 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Nilda       |07:38:17 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
-[1]Nilda       |07:38:22 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
-[1]Nilda       |07:38:27 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
-[1]Nilda       |07:38:31 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
-[1]Nilda       |07:38:36 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
-[1]Nilda       |07:38:41 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 37s
-[1]Nilda       |07:38:45 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 42s
-[1]Nilda       |07:38:50 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 47s
-[1]Nilda       |07:38:54 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 51s
-[1]Nilda       |07:39:00 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 56s
-[1]Nilda       |07:39:04 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 61s
-[1]Nilda       |07:39:09 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 65s
-[1]Nilda       |07:39:13 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 70s
-[1]Nilda       |07:39:18 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 75s
-[1]Nilda       |07:39:22 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 79s
-[1]Nilda       |07:39:29 | 12-10-2026| manga ch5 (2490001): COMPLETED
-[1]Nilda       |07:39:32 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Nilda       |07:39:38 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Nilda       |07:39:42 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
-[1]Nilda       |07:39:47 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Nilda       |07:39:51 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
-[1]Nilda       |07:39:56 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
-[1]Nilda       |07:40:01 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
-[1]Nilda       |07:40:05 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
-[1]Nilda       |07:40:10 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Nilda       |07:40:15 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
-[1]Nilda       |07:40:20 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 42s
-[1]Nilda       |07:40:25 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 47s
-[1]Nilda       |07:40:30 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 52s
-[1]Nilda       |07:40:34 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 57s
-[1]Nilda       |07:40:39 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 61s
-[1]Nilda       |07:40:44 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 66s
-[1]Nilda       |07:40:49 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 71s
-[1]Nilda       |07:40:54 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 76s
-[1]Nilda       |07:40:59 | 12-10-2026| manga ch6 (2610001): COMPLETED
-[1]Nilda       |07:41:02 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Nilda       |07:41:07 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Nilda       |07:41:12 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
-[1]Nilda       |07:41:17 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
-[1]Nilda       |07:41:22 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
-[1]Nilda       |07:41:26 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Nilda       |07:41:32 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 24s
-[1]Nilda       |07:41:36 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 29s
-[1]Nilda       |07:41:41 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 34s
-[1]Nilda       |07:41:46 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 39s
-[1]Nilda       |07:41:51 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 44s
-[1]Nilda       |07:41:55 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
-[1]Nilda       |07:42:01 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 53s
-[1]Nilda       |07:42:05 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
-[1]Nilda       |07:42:11 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 63s
-[1]Nilda       |07:42:15 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 68s
-[1]Nilda       |07:42:21 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 73s
-[1]Nilda       |07:42:25 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 78s
-[1]Nilda       |07:42:30 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 83s
-[1]Nilda       |07:42:36 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 87s
-[1]Nilda       |07:42:41 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 94s
-[1]Nilda       |07:42:45 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 98s
-[1]Nilda       |07:42:50 | 12-10-2026| manga ch1 (180003): COMPLETED
-[1]Nilda       |07:42:53 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Nilda       |07:42:59 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Nilda       |07:43:03 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Nilda       |07:43:09 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Nilda       |07:43:13 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
-[1]Nilda       |07:43:18 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
-[1]Nilda       |07:43:22 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
-[1]Nilda       |07:43:27 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
-[1]Nilda       |07:43:31 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
-[1]Nilda       |07:43:36 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 37s
-[1]Nilda       |07:43:41 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 42s
-[1]Nilda       |07:43:45 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 46s
-[1]Nilda       |07:43:50 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 51s
-[1]Nilda       |07:43:56 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 56s
-[1]Nilda       |07:44:00 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 62s
-[1]Nilda       |07:44:05 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 66s
-[1]Nilda       |07:44:10 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 71s
-[1]Nilda       |07:44:14 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 76s
-[1]Nilda       |07:44:19 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 80s
-[1]Nilda       |07:44:24 | 12-10-2026| manga ch2 (990005): COMPLETED
-[1]Nilda       |07:44:27 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Nilda       |07:44:33 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Nilda       |07:44:37 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Nilda       |07:44:42 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
-[1]Nilda       |07:44:46 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
-[1]Nilda       |07:44:51 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 18s
-[1]Nilda       |07:44:56 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 23s
-[1]Nilda       |07:45:00 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 28s
-[1]Nilda       |07:45:05 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 32s
-[1]Nilda       |07:45:09 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 37s
-[1]Nilda       |07:45:14 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 41s
-[1]Nilda       |07:45:19 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 46s
-[1]Nilda       |07:45:23 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 51s
-[1]Nilda       |07:45:28 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 55s
-[1]Nilda       |07:45:33 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 60s
-[1]Nilda       |07:45:38 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 65s
-[1]Nilda       |07:45:43 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 70s
-[1]Nilda       |07:45:49 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 75s
-[1]Nilda       |07:45:54 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 81s
-[1]Nilda       |07:45:58 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 86s
-[1]Nilda       |07:46:03 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 90s
-[1]Nilda       |07:46:08 | 12-10-2026| manga ch3 (1980001): COMPLETED
-[1]Nilda       |07:46:11 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Nilda       |07:46:17 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Nilda       |07:46:21 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
-[1]Nilda       |07:46:26 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Nilda       |07:46:31 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Nilda       |07:46:36 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 19s
-[1]Nilda       |07:46:41 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 24s
-[1]Nilda       |07:46:45 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 29s
-[1]Nilda       |07:46:50 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 33s
-[1]Nilda       |07:46:54 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 38s
-[1]Nilda       |07:46:59 | 12-10-2026| manga ch1 (2100001): COMPLETED
-[1]Nilda       |07:47:02 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Nilda       |07:47:08 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Nilda       |07:47:13 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Nilda       |07:47:17 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Nilda       |07:47:22 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Nilda       |07:47:26 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
-[1]Nilda       |07:47:31 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
-[1]Nilda       |07:47:35 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
-[1]Nilda       |07:47:41 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
-[1]Nilda       |07:47:46 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 38s
-[1]Nilda       |07:47:50 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
-[1]Nilda       |07:47:55 | 12-10-2026| manga ch1 (2070001): COMPLETED
-[1]Nilda       |07:47:58 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Nilda       |07:48:03 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Nilda       |07:48:08 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Nilda       |07:48:12 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Nilda       |07:48:17 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
-[1]Nilda       |07:48:21 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
-[1]Nilda       |07:48:26 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
-[1]Nilda       |07:48:31 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
-[1]Nilda       |07:48:36 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
-[1]Nilda       |07:48:40 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
-[1]Nilda       |07:48:45 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 42s
-[1]Nilda       |07:48:49 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 46s
-[1]Nilda       |07:48:54 | 12-10-2026| manga ch2 (2520001): COMPLETED
-[1]Nilda       |07:48:57 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Nilda       |07:49:02 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Nilda       |07:49:07 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
-[1]Nilda       |07:49:12 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
-[1]Nilda       |07:49:16 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
-[1]Nilda       |07:49:21 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
-[1]Nilda       |07:49:25 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
-[1]Nilda       |07:49:30 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
-[1]Nilda       |07:49:35 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 32s
-[1]Nilda       |07:49:39 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 37s
-[1]Nilda       |07:49:44 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 42s
-[1]Nilda       |07:49:48 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 46s
-[1]Nilda       |07:49:53 | 12-10-2026| manga ch3 (2550001): COMPLETED
+[1]Nilda       |07:25:52 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nilda menjalankan: Get Gift
-[1]Nilda       |07:49:57 | 12-10-2026| gift: 3/3 belum diterima
-[1]Nilda       |07:49:58 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Nilda       |07:50:01 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Nilda       |07:50:04 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Nilda       |07:25:52 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Nilda menjalankan: Setup Profile
-[1]Nilda       |07:50:07 | 12-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Nilda       |07:50:08 | 12-10-2026| profile: OK bio="https://x.com/nildazulika" fav=kagura awarded=true +10pt
+[1]Nilda       |07:25:53 | 13-10-2026| profile: bio="https://x.com/nildazulika" fav=kagura rewardAt=1791791408
+[1]Nilda       |07:25:53 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nilda menjalankan: Bind Wallet
-[1]Nilda       |07:50:09 | 12-10-2026| wallet: derivasi dari privateKeySolana -> ryuwkqTBuoznnZzu5TCayzRXTpY2nJpRswRWrwXo2eh (cek cocok dengan wallet kamu!)
-[1]Nilda       |07:50:09 | 12-10-2026| wallet: /api/wallet OK (solana)
-[1]Nilda       |07:50:10 | 12-10-2026| wallet: /api/sol-address OK
+[1]Nilda       |07:25:53 | 13-10-2026| wallet: sudah terikat ryuwkqTBuo... (solana)
 
 == RINGKASAN ==
-- Nilda: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 8 trek ~1524.8583s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Nilda: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
