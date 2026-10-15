@@ -12,77 +12,74 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nilda =====
-[1]Nilda       |05:52:57 | 14-10-2026| login OK @nildazulika | score=1130 rank=5426
-[1]Nilda       |05:52:57 | 14-10-2026| serverTime=2026-10-14T05:52:57.000Z local=2026-10-14T05:52:57.151Z
+[1]Nilda       |05:36:51 | 15-10-2026| login OK @nildazulika | score=1200 rank=5124
+[1]Nilda       |05:36:51 | 15-10-2026| serverTime=2026-10-15T05:36:51.000Z local=2026-10-15T05:36:51.233Z
 --> [1]Nilda menjalankan: Claim Daily
-[1]Nilda       |05:52:58 | 14-10-2026| daily: OK +10 poin score=1140
---> [1]Nilda menjalankan: Auto All Tasks (6 pending)
-[1]Nilda       |05:52:59 | 14-10-2026| [1/6] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2110247080259582570
-[1]Nilda       |05:52:59 | 14-10-2026| delay 10s...
-[1]Nilda       |05:53:12 | 14-10-2026| [2/6] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nilda       |05:53:12 | 14-10-2026| delay 10s...
-[1]Nilda       |05:53:24 | 14-10-2026| [3/6] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2110247087101127437
-[1]Nilda       |05:53:24 | 14-10-2026| delay 10s...
-[1]Nilda       |05:53:36 | 14-10-2026| [4/6] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2110247076532729213
-[1]Nilda       |05:53:36 | 14-10-2026| delay 10s...
-[1]Nilda       |05:53:48 | 14-10-2026| [5/6] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nildazulika/status/2110247268750927105
-[1]Nilda       |05:53:48 | 14-10-2026| delay 10s...
-[1]Nilda       |05:53:59 | 14-10-2026| [6/6] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nilda       |05:53:59 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nilda       |05:54:01 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nildazulika/status/2110247326395707378
+[1]Nilda       |05:36:52 | 15-10-2026| daily: OK +10 poin score=1210
+--> [1]Nilda menjalankan: Auto All Tasks (5 pending)
+[1]Nilda       |05:36:53 | 15-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nildazulika/status/2110605415228014709
+[1]Nilda       |05:36:53 | 15-10-2026| delay 10s...
+[1]Nilda       |05:37:05 | 15-10-2026| [2/5] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
+[1]Nilda       |05:37:05 | 15-10-2026| delay 10s...
+[1]Nilda       |05:37:16 | 15-10-2026| [3/5] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nildazulika/status/2110605545434268894
+[1]Nilda       |05:37:16 | 15-10-2026| delay 10s...
+[1]Nilda       |05:37:28 | 15-10-2026| [4/5] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nildazulika/status/2110605693956217756
+[1]Nilda       |05:37:28 | 15-10-2026| delay 10s...
+[1]Nilda       |05:37:40 | 15-10-2026| [5/5] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nildazulika/status/2110605625915276671
+[1]Nilda       |05:37:40 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilda       |05:37:41 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/nildazulika/status/2110605532913222176
 --> [1]Nilda menjalankan: Watch Anime
-[1]Nilda       |05:54:01 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Nilda       |05:54:01 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Nilda       |05:37:42 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Nilda       |05:37:42 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Nilda       |05:54:03 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nilda       |05:54:08 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Nilda       |05:54:09 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nilda       |05:54:14 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Nilda       |05:54:16 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilda       |05:37:44 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilda       |05:37:49 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Nilda       |05:37:50 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilda       |05:37:55 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Nilda       |05:37:56 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Nilda menjalankan: Read Article
-[1]Nilda       |05:54:17 | 14-10-2026| news: 24/25 artikel selesai dibaca
-[1]Nilda       |05:54:17 | 14-10-2026| mint eligibility: {"userId":"1878403506262134784","youtube":{"url":"https://www.youtube.com/@znildaa","status":"submitted","revision":"a1bdd691-3ac3-4a2e-9d48-63440a5db0c8","submittedAt":1791680630,"reviewedAt":1791680
-[1]Nilda       |05:54:23 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
+[1]Nilda       |05:37:58 | 15-10-2026| news: 25/26 artikel selesai dibaca
+[1]Nilda       |05:37:58 | 15-10-2026| mint eligibility: {"userId":"1878403506262134784","youtube":{"url":"https://www.youtube.com/@znildaa","status":"submitted","revision":"a1bdd691-3ac3-4a2e-9d48-63440a5db0c8","submittedAt":1791680630,"reviewedAt":1791680
+[1]Nilda       |05:38:04 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
 --> [1]Nilda menjalankan: Quiz Anime
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep1: sudah dijawab
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep2: sudah dijawab
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep3: sudah dijawab
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep4: sudah dijawab
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep5: sudah dijawab
-[1]Nilda       |05:54:26 | 14-10-2026| quiz ep6: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep1: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep2: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep3: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep4: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep5: sudah dijawab
+[1]Nilda       |05:38:07 | 15-10-2026| quiz ep6: sudah dijawab
 --> [1]Nilda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nilda       |05:54:27 | 14-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nilda       |05:54:28 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilda       |05:54:28 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilda       |05:54:28 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilda       |05:38:08 | 15-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nilda       |05:38:09 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilda       |05:38:09 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilda       |05:38:09 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilda menjalankan: Claim Missions
-[1]Nilda       |05:54:28 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilda       |05:54:28 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilda       |05:54:28 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilda       |05:38:09 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilda       |05:38:09 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilda       |05:38:09 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilda menjalankan: Check Eligibility
 
 --- eligibility [1]Nilda ---
-  @nildazulika | score=1130 rank=5426
-  tasks    [###################-] 74/80
+  @nildazulika | score=1200 rank=5124
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 25/25
+  artikel  [####################] 26/26
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nilda menjalankan: Read Manga
-[1]Nilda       |05:54:31 | 14-10-2026| manga: 0/13 chapter belum completed
+[1]Nilda       |05:38:13 | 15-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nilda menjalankan: Get Gift
-[1]Nilda       |05:54:32 | 14-10-2026| gift: 1/4 belum diterima
-[1]Nilda       |05:54:33 | 14-10-2026| gift [1/1] Silver Oshii: OK
+[1]Nilda       |05:38:13 | 15-10-2026| gift: 0/4 belum diterima
 --> [1]Nilda menjalankan: Setup Profile
-[1]Nilda       |05:54:35 | 14-10-2026| profile: bio="https://x.com/nildazulika" fav=kagura rewardAt=1791791408
-[1]Nilda       |05:54:35 | 14-10-2026| profile: bonus sudah diklaim, skip
+[1]Nilda       |05:38:13 | 15-10-2026| profile: bio="https://x.com/nildazulika" fav=kagura rewardAt=1791791408
+[1]Nilda       |05:38:13 | 15-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nilda menjalankan: Bind Wallet
-[1]Nilda       |05:54:36 | 14-10-2026| wallet: sudah terikat ryuwkqTBuo... (solana)
+[1]Nilda       |05:38:14 | 15-10-2026| wallet: sudah terikat ryuwkqTBuo... (solana)
 
 == RINGKASAN ==
-- Nilda: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nilda: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
